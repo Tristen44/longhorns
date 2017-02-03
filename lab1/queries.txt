@@ -1,0 +1,15 @@
+1.How many actors are there in the dataset?
+2.What time period does the dataset cover?
+3.What genre has the most movies?
+4.What year had the most movies?
+5.What is the most commmon movie title?
+6.What is the longest series?
+7.Most common actor first name?
+8.What actor has been in the most movies?
+9.What actor has been in the most series?
+10.What is the most used keyword?
+11.Are there more male or female actors?
+12.What is the largest cast for a single movie?
+13.What is the most used actor last name?
+14.Who is the most played character?
+
